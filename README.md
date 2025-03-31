@@ -1,16 +1,24 @@
-## Hi there 👋
+ Hi there! I'm [Rukshan Wijenayaka]👋👋
+🔧 Undergraduate Engineering Student | 📏 Programming Learner | 💡 Problem Solver
 
-<!--
-**RukshanWijenayaka/RukshanWijenayaka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm passionate about engineering, precision measurement, and all things metrology. Currently, I'm deep into learning engineering metrology and improving my technical skills.
 
-Here are some ideas to get you started:
+🚀 What I'm working on:
+📚 Continuing with my accadamic works and learn programming...
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔬 Exploring measurement techniques and quality control
+
+🛠️ Building small projects related to precision engineering
+
+📌 Skills & Interests:
+Handle Programming language (JAVA,Phython,JS,NODE,ElectroneJS,Anguler.....)
+Engineering  Calibration
+
+CAD & Technical Drawings
+
+Quality Assurance & Control
+
+Python Engineering Applications
+
+💡 Always eager to learn and collaborate! Let's connect and build something cool together.
+
